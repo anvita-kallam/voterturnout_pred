@@ -1,4 +1,4 @@
-<h1 align="center">🗳️ Predicting Voter Turnout Rate by State  for the 2024 US Presidential Election Using Socioeconomic Factors</h1>
+<h1 align="center"> Predicting Voter Turnout Rate by State  for the 2024 US Presidential Election Using Socioeconomic Factors</h1>
 <h3 align="center">This project uses LASSO, XGboost, CNN, and ARIMA models with federal data to determine the impact of socioeconomic factors on voter turnout.</h3>
 
 ## Abstract

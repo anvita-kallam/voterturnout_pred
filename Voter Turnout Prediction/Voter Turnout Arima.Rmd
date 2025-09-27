@@ -35,7 +35,7 @@ create_zoo_per_state <- function(State) {
   zoo(State$Turnout, order.by = State$Year)
 }
 
-# Split the data by state and create zoo time series objects
+# Split the data by state and create zoo time series objects to prep for model
 state_zoo <- lapply(split(data, data$State), create_zoo_per_state)
 
 state_zoo
